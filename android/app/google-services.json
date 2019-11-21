@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571212189149",
+    "firebase_url": "https://residenciaapp.firebaseio.com",
+    "project_id": "residenciaapp",
+    "storage_bucket": "residenciaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571212189149:android:2f215c8fc553407aa4ba34",
+        "android_client_info": {
+          "package_name": "com.example.proyect.app_resi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571212189149-b31pipusioa52q3b49ec1ek2jiho9qi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZbM2DmGOuh25XABJjpDfx0RPcQyoT7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571212189149-b31pipusioa52q3b49ec1ek2jiho9qi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
